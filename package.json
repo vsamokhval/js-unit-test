@@ -1,0 +1,22 @@
+{
+  "name": "my-own-angularjs",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-testem-mincer": "^0.5.18",
+    "gulp": "^3.9.1",
+    "gulp-jasmine-phantom": "^3.0.0",
+    "gulp-jshint": "^2.0.0",
+    "karma": "^0.13.21",
+    "karma-jasmine": "^0.3.7",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "phantomjs": "^2.1.3",
+    "phantomjs-prebuilt": "^2.1.4",
+    "sinon": "^1.17.3"
+  },
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "lodash": "^4.6.1"
+  }
+}
